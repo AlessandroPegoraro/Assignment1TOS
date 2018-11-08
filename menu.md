@@ -4,3 +4,5 @@ PIZZA:
 - capricciosa
 
 PRIMI:
+- bucatini alla matriciana
+- spaghetti alla carbonara
