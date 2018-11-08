@@ -1,5 +1,10 @@
 # matricola: 1143562
-pizze:
+PIZZA:
 - margherita
 - capricciosa
+
+PRIMI:
+- bucatini alla matriciana
+- spaghetti alla carbonara
+
 pizzeria Bella Napoli
